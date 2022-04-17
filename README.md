@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://dev.to/n8fury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="n8fury" height="30" width="40" /></a>
 <a href="https://twitter.com/n8fury1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n8fury1" height="30" width="40" /></a>
-<p align="left">
 <a href="https://linkedin.com/in/mamdud-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamdud-hasan" height="30" width="40" /></a>
 
 </p>
