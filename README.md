@@ -26,6 +26,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  </p>
 
+## 📊 Github Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n8fury&show_icons=true&theme=dracula&locale=en&layout=compact" alt="n8fury" /></p>
 <br/>
 <br/>
@@ -39,6 +41,9 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=n8fury&theme=dracula" alt="n8fury" /></p>
+<br/>
+<br/> 
+<br/>
 
 [![n8fury's github activity graph](https://activity-graph.herokuapp.com/graph?username=n8fury&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
