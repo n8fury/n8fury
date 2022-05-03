@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamdud Hasan</h1>
-<h3 align="center">I'm a CS student from Bangladesh. I am very passionate about working in the tech industry.</h3>
+<h3 align="center">Forward-looking CS student. Very much passionate about working in Backend Development.</h3>
 
 - 🔭 I’m currently working on [Algorithm_Problems](https://github.com/n8fury/Algorithm_Problems)
 - 🌱 I’m currently learning **node.js**
