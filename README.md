@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [Algorithm_Problems](https://github.com/n8fury/Algorithm_Problems)
 - 🌱 I’m currently learning **node.js**
 - 📫 How to reach me **mhjoy547@gmail.com**
-- 📁 My Portfolio [Here](https://n8fury-portfolio.vercel.app/)
 
 <details>
 <summary><strong>## ☎️Connect with me:</strong></summary>
