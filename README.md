@@ -31,7 +31,7 @@
 </details>
 <details>
 <summary>## 📊 Github Stats</summary>
-<p align="center"> <a href="https://github.com/n8fury"><img src="https://metrics.lecoq.io/n8fury?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&timezone=Asia%2FCalcutta" alt="n8fury" /></a> </p>
+<p align="center"> <a href="https://github.com/n8fury"><img src="https://metrics.lecoq.io/n8fury?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FDhaka" alt="n8fury" /></a> </p>
 </details>
 
 <strong>📈 Contribution Graph:</strong>
