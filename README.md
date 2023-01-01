@@ -124,7 +124,7 @@ Windows                  11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <br/>
 
-<a href="https://github.com/n8fury"><img alt="n8fury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=n8fury&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/n8fury"><img alt="n8fury's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=n8fury&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
