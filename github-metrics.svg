@@ -127,7 +127,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    20.2k added, 19.6k removed
+                                    936 added, 3.97k removed
                                 </div>
                             </section>
                             <section>
@@ -533,16 +533,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,75.5C39.5,63.583,49,39.75,58.5,39.75C68,39.75,77.5,71.435,87,81C96.5,90.565,106,101.37,115.5,103C125,104.63,134.5,105.75,144,105.75C153.5,105.75,163,103,172.5,103C182,103,191.5,103,201,103L201,125Z" class="ct-area"/>
-                                            <path d="M30,75.5C39.5,63.583,49,39.75,58.5,39.75C68,39.75,77.5,71.435,87,81C96.5,90.565,106,101.37,115.5,103C125,104.63,134.5,105.75,144,105.75C153.5,105.75,163,103,172.5,103C182,103,191.5,103,201,103" class="ct-line"/>
+                                            <path d="M30,125L30,75.5C39.5,63.583,49,39.75,58.5,39.75C68,39.75,77.5,71.435,87,81C96.5,90.565,106,100.067,115.5,103C125,105.933,134.5,108.5,144,108.5C153.5,108.5,163,104.222,172.5,103C182,101.778,191.5,101.167,201,100.25L201,125Z" class="ct-area"/>
+                                            <path d="M30,75.5C39.5,63.583,49,39.75,58.5,39.75C68,39.75,77.5,71.435,87,81C96.5,90.565,106,100.067,115.5,103C125,105.933,134.5,108.5,144,108.5C153.5,108.5,163,104.222,172.5,103C182,101.778,191.5,101.167,201,100.25" class="ct-line"/>
                                             <line x1="30" y1="75.5" x2="30.01" y2="75.5" class="ct-point" ct:value="18"/>
                                             <line x1="58.5" y1="39.75" x2="58.51" y2="39.75" class="ct-point" ct:value="31"/>
                                             <line x1="87" y1="81" x2="87.01" y2="81" class="ct-point" ct:value="16"/>
                                             <line x1="115.5" y1="103" x2="115.51" y2="103" class="ct-point" ct:value="8"/>
-                                            <line x1="144" y1="105.75" x2="144.01" y2="105.75" class="ct-point" ct:value="7"/>
+                                            <line x1="144" y1="108.5" x2="144.01" y2="108.5" class="ct-point" ct:value="6"/>
                                             <line x1="172.5" y1="103" x2="172.51" y2="103" class="ct-point" ct:value="8"/>
-                                            <line x1="201" y1="103" x2="201.01" y2="103" class="ct-point" ct:value="8"/>
-                                        <text x="30" y="70.5" class="ct-post">18</text><text x="58.5" y="34.75" class="ct-post">31</text><text x="87" y="76" class="ct-post">16</text><text x="115.5" y="98" class="ct-post">8</text><text x="144" y="100.75" class="ct-post">7</text><text x="172.5" y="98" class="ct-post">8</text><text x="201" y="98" class="ct-post">8</text></g>
+                                            <line x1="201" y1="100.25" x2="201.01" y2="100.25" class="ct-point" ct:value="9"/>
+                                        <text x="30" y="70.5" class="ct-post">18</text><text x="58.5" y="34.75" class="ct-post">31</text><text x="87" y="76" class="ct-post">16</text><text x="115.5" y="98" class="ct-post">8</text><text x="144" y="103.5" class="ct-post">6</text><text x="172.5" y="98" class="ct-post">8</text><text x="201" y="95.25" class="ct-post">9</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -565,19 +565,19 @@
                             <div class="ct-chart">
                                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="216" height="160" class="ct-chart-pie">
                                     <g class="ct-series ct-series-a">
-                                        <path d="M123.247,6.566A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.02888380600099021"/>
+                                        <path d="M123.247,6.566A75,75,0,0,0,108,5L108,80Z" class="ct-slice-pie" ct:value="0.02884301077612038"/>
                                     </g>
                                     <g class="ct-series ct-series-b">
-                                        <path d="M124.859,6.919A75,75,0,0,0,122.991,6.513L108,80Z" class="ct-slice-pie" ct:value="0.003104289675508982"/>
+                                        <path d="M124.859,6.919A75,75,0,0,0,122.991,6.513L108,80Z" class="ct-slice-pie" ct:value="0.0030999052050077907"/>
                                     </g>
                                     <g class="ct-series ct-series-c">
-                                        <path d="M129.438,8.129A75,75,0,0,0,124.604,6.861L108,80Z" class="ct-slice-pie" ct:value="0.008910511621309394"/>
+                                        <path d="M129.438,8.129A75,75,0,0,0,124.604,6.861L108,80Z" class="ct-slice-pie" ct:value="0.00889792649574512"/>
                                     </g>
                                     <g class="ct-series ct-series-d">
-                                        <path d="M130.8,8.55A75,75,0,0,0,129.187,8.055L108,80Z" class="ct-slice-pie" ct:value="0.0026814734191786724"/>
+                                        <path d="M130.8,8.55A75,75,0,0,0,129.187,8.055L108,80Z" class="ct-slice-pie" ct:value="0.002677686130512002"/>
                                     </g>
                                     <g class="ct-series ct-series-e">
-                                        <path d="M108,5A75,75,0,1,0,130.55,8.47L108,80Z" class="ct-slice-pie" ct:value="0.8428923905349172"/>
+                                        <path d="M108,5A75,75,0,1,0,130.55,8.47L108,80Z" class="ct-slice-pie" ct:value="0.8417018969894418"/>
                                     </g>
                                     <g>
                                         <text dx="111.83187751844395" dy="42.69629087230542" text-anchor="middle" class="ct-label">HTML</text>
@@ -2637,6 +2637,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2658,7 +2663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nayemhasan/Section_JAVA</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Solved some problems by NAYEM HASAN</div>
@@ -2705,7 +2710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nayemhasan/Nayemhasan</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2747,7 +2752,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nayemhasan/Static_Website</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A single page satic site Made with JS, CSS and advance HTML tags</div>
@@ -2794,7 +2799,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nayemhasan/watermelon_with_css</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">drawn a watermelon with css</div>
@@ -2859,6 +2864,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#196ac54</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">28 Jan 2023, 06:56:16</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">n8fury/n8fury</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#698e4bc</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -2885,27 +2911,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">26 Jan 2023, 06:56:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">n8fury/n8fury</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#95214e0</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jan 2023, 06:54:21</div>
                             </section>
                         </div>
                     </section>
@@ -3091,7 +3096,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.516769336071185 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.728952772073921 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3454,7 +3459,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.32m out of 372m repositories</span>
+                                    <span class="gh">ranked 4.38m out of 372m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3644,7 +3649,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2023, 07:47:08 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Jan 2023, 07:46:30 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
