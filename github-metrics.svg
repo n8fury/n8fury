@@ -533,16 +533,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,37C39.5,37,49,37,58.5,37C68,37,77.5,37,87,37C96.5,37,106,15,115.5,15C125,15,134.5,37,144,37C153.5,37,163,15,172.5,15C182,15,191.5,29.667,201,37L201,125Z" class="ct-area"/>
-                                            <path d="M30,37C39.5,37,49,37,58.5,37C68,37,77.5,37,87,37C96.5,37,106,15,115.5,15C125,15,134.5,37,144,37C153.5,37,163,15,172.5,15C182,15,191.5,29.667,201,37" class="ct-line"/>
+                                            <path d="M30,125L30,37C39.5,37,49,37,58.5,37C68,37,77.5,59,87,59C96.5,59,106,15,115.5,15C125,15,134.5,15,144,15C153.5,15,163,15,172.5,15C182,15,191.5,29.667,201,37L201,125Z" class="ct-area"/>
+                                            <path d="M30,37C39.5,37,49,37,58.5,37C68,37,77.5,59,87,59C96.5,59,106,15,115.5,15C125,15,134.5,15,144,15C153.5,15,163,15,172.5,15C182,15,191.5,29.667,201,37" class="ct-line"/>
                                             <line x1="30" y1="37" x2="30.01" y2="37" class="ct-point" ct:value="4"/>
                                             <line x1="58.5" y1="37" x2="58.51" y2="37" class="ct-point" ct:value="4"/>
-                                            <line x1="87" y1="37" x2="87.01" y2="37" class="ct-point" ct:value="4"/>
+                                            <line x1="87" y1="59" x2="87.01" y2="59" class="ct-point" ct:value="3"/>
                                             <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="5"/>
-                                            <line x1="144" y1="37" x2="144.01" y2="37" class="ct-point" ct:value="4"/>
+                                            <line x1="144" y1="15" x2="144.01" y2="15" class="ct-point" ct:value="5"/>
                                             <line x1="172.5" y1="15" x2="172.51" y2="15" class="ct-point" ct:value="5"/>
                                             <line x1="201" y1="37" x2="201.01" y2="37" class="ct-point" ct:value="4"/>
-                                        <text x="30" y="32" class="ct-post">4</text><text x="58.5" y="32" class="ct-post">4</text><text x="87" y="32" class="ct-post">4</text><text x="115.5" y="10" class="ct-post">5</text><text x="144" y="32" class="ct-post">4</text><text x="172.5" y="10" class="ct-post">5</text><text x="201" y="32" class="ct-post">4</text></g>
+                                        <text x="30" y="32" class="ct-post">4</text><text x="58.5" y="32" class="ct-post">4</text><text x="87" y="54" class="ct-post">3</text><text x="115.5" y="10" class="ct-post">5</text><text x="144" y="10" class="ct-post">5</text><text x="172.5" y="10" class="ct-post">5</text><text x="201" y="32" class="ct-post">4</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -2611,6 +2611,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2632,7 +2637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bingmann/sound-of-sorting</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms</div>
@@ -2653,13 +2658,13 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        708
+                                        709
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        113
+                                        114
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2685,7 +2690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>watermelonvault/Melon_booster</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Boost your windows experience without reinstalling windows again &amp; again</div>
@@ -2738,7 +2743,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sahasourav17/Notes</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2786,7 +2791,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Nayemhasan/All_Black_Firefox_Rounded_themes</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2865,6 +2870,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#194bab6</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Mar 2023, 06:56:56</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">n8fury/n8fury</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5879d50</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -2891,27 +2917,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">7 Mar 2023, 06:58:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">n8fury/n8fury</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d4d65be</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Mar 2023, 06:55:15</div>
                             </section>
                         </div>
                     </section>
@@ -3097,7 +3102,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4852840520191812 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6974674880219165 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3303,7 +3308,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 585k out of 110m users</span>
+                                    <span class="gh">ranked 586k out of 110m users</span>
                                 </div>
                                 <div class="text">Followed by 19 users</div>
                             </div>
@@ -3501,7 +3506,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 382m repositories</span>
+                                    <span class="gh">ranked 4.40m out of 383m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3691,7 +3696,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2023, 07:55:04 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Mar 2023, 07:56:11 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
