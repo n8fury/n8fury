@@ -435,7 +435,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 06:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
             </section>
@@ -523,23 +523,24 @@
                                     <!-- (optimized css) -->
                                     <g class="ct-grids">
                                         <line y1="125" y2="125" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="97.5" y2="97.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="70" y2="70" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="42.5" y2="42.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="103" y2="103" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="81" y2="81" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="59" y2="59" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="37" y2="37" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                         <line y1="15" y2="15" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,15C39.5,24.167,49,42.5,58.5,42.5C68,42.5,77.5,15,87,15C96.5,15,106,15,115.5,15C125,15,134.5,15,144,15C153.5,15,163,15,172.5,15C182,15,191.5,15,201,15L201,125Z" class="ct-area"/>
-                                            <path d="M30,15C39.5,24.167,49,42.5,58.5,42.5C68,42.5,77.5,15,87,15C96.5,15,106,15,115.5,15C125,15,134.5,15,144,15C153.5,15,163,15,172.5,15C182,15,191.5,15,201,15" class="ct-line"/>
-                                            <line x1="30" y1="15" x2="30.01" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="58.5" y1="42.5" x2="58.51" y2="42.5" class="ct-point" ct:value="3"/>
-                                            <line x1="87" y1="15" x2="87.01" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="144" y1="15" x2="144.01" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="172.5" y1="15" x2="172.51" y2="15" class="ct-point" ct:value="4"/>
-                                            <line x1="201" y1="15" x2="201.01" y2="15" class="ct-point" ct:value="4"/>
-                                        <text x="30" y="10" class="ct-post">4</text><text x="58.5" y="37.5" class="ct-post">3</text><text x="87" y="10" class="ct-post">4</text><text x="115.5" y="10" class="ct-post">4</text><text x="144" y="10" class="ct-post">4</text><text x="172.5" y="10" class="ct-post">4</text><text x="201" y="10" class="ct-post">4</text></g>
+                                            <path d="M30,125L30,37C39.5,44.333,49,59,58.5,59C68,59,77.5,59,87,59C96.5,59,106,15,115.5,15C125,15,134.5,37,144,37C153.5,37,163,37,172.5,37C182,37,191.5,37,201,37L201,125Z" class="ct-area"/>
+                                            <path d="M30,37C39.5,44.333,49,59,58.5,59C68,59,77.5,59,87,59C96.5,59,106,15,115.5,15C125,15,134.5,37,144,37C153.5,37,163,37,172.5,37C182,37,191.5,37,201,37" class="ct-line"/>
+                                            <line x1="30" y1="37" x2="30.01" y2="37" class="ct-point" ct:value="4"/>
+                                            <line x1="58.5" y1="59" x2="58.51" y2="59" class="ct-point" ct:value="3"/>
+                                            <line x1="87" y1="59" x2="87.01" y2="59" class="ct-point" ct:value="3"/>
+                                            <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="5"/>
+                                            <line x1="144" y1="37" x2="144.01" y2="37" class="ct-point" ct:value="4"/>
+                                            <line x1="172.5" y1="37" x2="172.51" y2="37" class="ct-point" ct:value="4"/>
+                                            <line x1="201" y1="37" x2="201.01" y2="37" class="ct-point" ct:value="4"/>
+                                        <text x="30" y="32" class="ct-post">4</text><text x="58.5" y="54" class="ct-post">3</text><text x="87" y="54" class="ct-post">3</text><text x="115.5" y="10" class="ct-post">5</text><text x="144" y="32" class="ct-post">4</text><text x="172.5" y="32" class="ct-post">4</text><text x="201" y="32" class="ct-post">4</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -2591,6 +2592,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2612,7 +2618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bingmann/sound-of-sorting</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms</div>
@@ -2665,7 +2671,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>watermelonvault/Melon_booster</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Feb 20 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Boost your windows experience without reinstalling windows again &amp; again</div>
@@ -2845,6 +2851,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#3c30338</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Mar 2023, 06:49:06</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">n8fury/n8fury</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e561538</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
@@ -2873,27 +2900,6 @@
                                 <div class="timestamp">20 Mar 2023, 06:54:34</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">n8fury/n8fury</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#15b4c22</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Mar 2023, 06:57:46</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2910,9 +2916,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5065434949961508 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5063485956136976 329"/>
                                     <text x="60" y="50" dominant-baseline="central">4</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2598</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2599</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -2928,9 +2934,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.23788864786695588 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.23771676300578035 329"/>
                                     <text x="60" y="50" dominant-baseline="central">1</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1383</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1384</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -3077,7 +3083,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.455852156057509 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.668035592060244 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3481,7 +3487,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.65m out of 386m repositories</span>
+                                    <span class="gh">ranked 4.68m out of 387m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3671,7 +3677,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2023, 07:37:22 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Mar 2023, 07:38:13 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
