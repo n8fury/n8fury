@@ -22,7 +22,7 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 </p>
 <p  align = "left">
 
-- 🔭 I’m currently working on [***Algorithm_Problems***](https://github.com/n8fury/Algorithm_Problems)
+- 🔭 I’m currently working on [***Airbnb_clone***](https://github.com/n8fury/Airbnb-clone)
 - 🌱 I’m currently learning **node.js**
 <!-- - 🤵 My portfolio [**Here**](https://n8fury-portfolio.vercel.app/) -->
 - <p align = "left">
