@@ -24,7 +24,6 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 
 - 🔭 I’m currently working on [***Airbnb_clone***](https://github.com/n8fury/Airbnb-clone)
 - 🌱 I’m currently learning **node.js**
-<!-- - 🤵 My portfolio [**Here**](https://n8fury-portfolio.vercel.app/) -->
 - <p align = "left">
       <details>
       <summary><strong> ☎️ Connect with me:</strong></summary>
