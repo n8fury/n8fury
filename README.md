@@ -1,9 +1,9 @@
 
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 #
 
-<h1  align="center"><strong>Welcome to Mamdud Hasan's Profile ✋</strong></h1>
+<h1  align="center"><strong>Welcome to Mamdud Hasan's Profile <img width="7%"  src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="pikachu"></strong></h1>
 
 <img width="100%" height="300px" src="./2.svg" alt="Material Bread logo">
 
@@ -143,7 +143,7 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/0-percent-optimized.../../../../../../../../2.svg)](https://forthebadge.com)
 <!-- [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) -->
 
 **[⬆ back to the top](# )**
