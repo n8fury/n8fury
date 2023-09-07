@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<img   src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 #
 
@@ -122,8 +122,11 @@ Windows                  50 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=n8fury&theme=dracula" alt="n8fury" /></p>
 
 <br/>
+<img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 [![n8fury's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&bg_color=2f0e20&color=c2c2c2&line=bf69b9&point=643a3a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <br/>
@@ -143,10 +146,13 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/0-percent-optimized.../../../../../../../../2.svg)](https://forthebadge.com)
+[![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 <!-- [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) -->
 
 **[⬆ back to the top](# )**
+
+
+
 <!-- todo -->
 <!-- add snake svg from @github.com/mikyll -->
 <!-- fixed snake svg push issue from @github.com/crazy-max -->
