@@ -27,9 +27,10 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
       <details>
       <summary><strong> ☎️ Connect with me:</strong></summary>
       <p align="left">
-      <a href="https://twitter.com/n8fury1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="n8fury1" /></a>
       <a href="https://linkedin.com/in/mamdud-hasan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mamdud-hasan" /></a>
-      <a href="mailto:mhjoy547@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      <a href="mailto:mhjoy547@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <a href="https://t.me/n8fury" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+      </a>
       </p>
       </details>
 
@@ -46,6 +47,8 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -57,8 +60,6 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
        <!--       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
-       <!--       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> -->
-       <!--       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
        <!--       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> -->
       </details>
     </p>
@@ -150,8 +151,6 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <!-- [![forthebadge](https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/powered-by-black-magic.svg)](https://forthebadge.com) -->
 
 **[⬆ back to the top](# )**
-
-
 
 <!-- todo -->
 <!-- add snake svg from @github.com/mikyll -->
