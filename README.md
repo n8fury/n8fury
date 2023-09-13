@@ -122,7 +122,7 @@ Windows                  1 hr 42 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 
 <br/>
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=n8fury&theme=dracula" alt="n8fury" /></p>
+<p align=center><img src="https://streak-stats.demolab.com?user=n8fury&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="n8fury" /></p>
 
 <br/>
 <img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
