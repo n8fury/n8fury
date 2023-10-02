@@ -3,7 +3,7 @@
 
 #
 
-<h1  align="center"><strong>Welcome to Mamdud Hasan's Profile <img width="7%"  src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" ></strong></h1>
+<h1 align="center"><strong>Welcome to Mamdud Hasan's Profile</strong><img width="7%"  src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" ></h1>
 
 <img width="100%" height="300px" src="./2.svg" alt="Material Bread logo">
 
