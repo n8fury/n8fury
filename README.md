@@ -164,4 +164,6 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 <!-- todo -->
 <!-- add snake svg from @github.com/mikyll -->
 <!-- fixed snake svg push issue from @github.com/crazy-max -->
-<!-- fixe wakatime ITA from @github.com/mikyll  -->
+<!-- fixe wakatime ITA from @github.com/mikyll : FIXED  -->
+
+
