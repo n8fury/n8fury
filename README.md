@@ -117,6 +117,12 @@ Windows                  42 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
  Last Updated on 15/01/2024 00:41:12 UTC
 <!--END_SECTION:waka-->
+<div align=center>
+
+ <strong> <p> 🖥️ LeetCode States: </p>  </strong>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/n8fury?theme=nord&font=Nunito&ext=activity)
+</div>
 
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 
@@ -130,6 +136,7 @@ Windows                  42 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&bg_color=2f0e20&color=c2c2c2&line=bf69b9&point=643a3a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
 
 <br/>
 
