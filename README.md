@@ -84,7 +84,7 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 
 📊 **Development Breakdown:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413.3%20thousand%20lines%20of%20code-blue)
 
@@ -118,7 +118,7 @@ Windows                  5 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 25/04/2024 00:40:54 UTC
+ Last Updated on 26/04/2024 00:38:57 UTC
 <!--END_SECTION:waka-->
 <div align=center>
 
