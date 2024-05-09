@@ -21,8 +21,8 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 </p>
 <p  align = "left">
 
-- 🔭 I’m currently working on [***OCPP CSMS***](#)
-- 🌱 I’m currently learning **node.js**
+- 🔭 I’m currently working on ***OCPP CSMS***
+- 🌱 I’m currently learning **Dart**
 - <p align = "left">
       <details>
       <summary><strong> ☎️ Connect with me:</strong></summary>
