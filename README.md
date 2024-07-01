@@ -86,13 +86,13 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-428.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 45.8 kB Used in GitHub's Storage 
+> 📦 46.1 kB Used in GitHub's Storage 
  > 
 > 🏆 467 Contributions in the Year 2024
  > 
@@ -162,7 +162,7 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 00:45:45 UTC
+ Last Updated on 01/07/2024 00:47:53 UTC
 <!--END_SECTION:waka-->
 <div align=center>
 
