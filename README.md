@@ -88,7 +88,7 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 
 **🐱 My GitHub Data** 
 
-> 📦 50.4 kB Used in GitHub's Storage 
+> 📦 43.8 kB Used in GitHub's Storage 
  > 
 > 🏆 526 Contributions in the Year 2024
  > 
@@ -115,7 +115,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 04:10:44 UTC
+ Last Updated on 26/07/2024 01:10:48 UTC
 <!--END_SECTION:waka-->
 <div align=center>
 
