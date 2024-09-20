@@ -84,17 +84,19 @@ Wish me luck on my journey of becoming a Backend Developer!!  </h4>
 
 📊 **Development Breakdown:**
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-445.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-445.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 46.4 kB Used in GitHub's Storage 
+> 📦 46.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 565 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
@@ -113,7 +115,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 01:17:33 UTC
+ Last Updated on 20/09/2024 01:18:15 UTC
 <!--END_SECTION:waka-->
 <div align=center>
 
