@@ -132,9 +132,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br/>
 <img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true
-
-[![n8fury's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true&custom_title=n8fury's contribution)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![n8fury's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true&custom_title=n8fury's%20Contribution)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&bg_color=2f0e20&color=c2c2c2&line=bf69b9&point=643a3a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
