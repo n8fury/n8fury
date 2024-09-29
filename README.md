@@ -127,7 +127,7 @@ TypeScript               2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
 
 <br/>
-<p align=center><img src="https://streak-stats.demolab.com?user=n8fury&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="n8fury" /></p>
+<p align=center><img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=n8fury&theme=tokyonight&border_radius=5.0&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=220&fire=EB5454" alt="GitHub Streak" alt="n8fury" /></p>
 
 <br/>
 <img   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
