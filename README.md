@@ -11,9 +11,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </div>
  <h3><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h3>
-<h4 >💡 I'm deeply passionate about crafting backend solutions that help simplify and improve daily life through thoughtful, efficient code. Since beginning my programming journey, I've been dedicated to continuous learning and practice, with a strong focus on building clean, readable, and reusable code that’s easy to maintain and expand.
- <br>
-💻 Currently diving into problem-solving on LeetCode to strengthen my core programming and problem-solving abilities. I’m excited to keep growing as a developer, tackling challenges, and building systems that can make a real difference.  </h4>
+ 
+🌌 **Hey there! I’m an ambitious Computer Science student with a passion for Backend Development and a mission to transform complex code into effortless experiences**
+
+🚀 **Coding since day one** of my programming journey, I’m all about building systems that make life simpler, focusing on every detail to ensure code that’s clean, efficient, and powerful. I believe in the magic of **readable, reusable, and clutter-free** code — because every line should bring value, not confusion.
+
+💡 **What drives me:** A deep curiosity to discover new programming languages, frameworks, and tools, with a solid commitment to keeping my fundamentals sharp. Currently, I’m honing my skills on **LeetCode**, mastering problem-solving patterns, and expanding my approach to tackling real-world challenges. The ultimate goal? To create backends that are not just functional but also crafted with precision and care.
+
+🎯 **On a mission to** make an impact in the backend world, one project at a time. Whether it’s optimizing data flow or designing seamless architectures, I’m here to shape digital solutions that truly help. **Wishing myself luck as I dive deeper into this path — and if you’re here, maybe we’re already part of the same journey!**
+
+🌐 **Let’s connect and build a future where every line of code makes life just a bit easier.**
+
 <br/>
 <br/>
 <br/>
