@@ -7,7 +7,9 @@
 <div align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </div>
- <h3><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h3>
+<div align="center"> <h3><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h3></div>
+
+<!-- <img width="1000px" src="./assets/hello.gif" alt="header"> -->
 
 🌌 **Hey there! I’m an ambitious Computer Science student with a passion for Backend Development and a mission to transform complex code into effortless experiences.**  
 
@@ -24,7 +26,7 @@
 <br/>
 
 <p align= "right">
-<img align="right" alt="Coder GIF"  width="40%"  src="./assets/coder.gif" />
+<img align="right" alt="Coder GIF"  width="40%"  src="./assets/mario.gif" />
 </p>
 <p  align = "left">
 
