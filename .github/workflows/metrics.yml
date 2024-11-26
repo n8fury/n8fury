@@ -1,9 +1,6 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each day)
-  # schedule: [{cron: "0 */24 * * *"}] uncomment this line to run every day
-  # Lines below let you run workflow manually and on each commit
+  # Lines below let you run the workflow manually and on each commit
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -14,13 +11,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
@@ -98,8 +88,14 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: n8fury
+          # File output options
+          filename: assets/github-metrics.svg
+          config_output: svg
 
-      - name: Move output to assets folder
+      - name: Push metrics to main branch
         run: |
-          mkdir -p assets
-          mv github-metrics.svg assets/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-metrics.svg
+          git commit -m "chore: update metrics SVG"
+          git push origin main

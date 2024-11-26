@@ -76,7 +76,7 @@
 - <details>
   <summary>📊 GitHub Metrics:</summary>
   <p align="left">
-    <img src="./assets/github-metrics.svg">
+    <img src="./github-metrics.svg">
   </p>
 
 </details>
