@@ -1,6 +1,6 @@
 <img src="./assets/js.gif" alt="header">
 
-<h1  align="center"><strong>Welcome to Mamdud Hasan's Profile🫡 </strong></h1>
+<h1  align="center"><strong> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  Welcome to Mamdud Hasan's Profile <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </strong></h1>
 
 <img width="100%" height="300px" src="./assets/header.svg" alt="header">
 
