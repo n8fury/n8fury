@@ -1,4 +1,4 @@
-name: Metrics
+name: Generate Github Metrics
 on:
   schedule:
      # Runs at 12am IST
