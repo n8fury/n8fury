@@ -1,4 +1,4 @@
-<img width="100%" height="300px" src="./assets/js.gif" alt="header">
+<img src="./assets/js.gif" alt="header">
 
 <h1  align="center"><strong>Welcome to Mamdud Hasan's Profile🫡 </strong></h1>
 
@@ -95,19 +95,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-458.0%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 41.4 kB Used in GitHub's Storage 
- > 
+> 📦 41.4 kB Used in GitHub's Storage
+ >
 > 🏆 684 Contributions in the Year 2024
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 17 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 38 Public Repositories
+ >
+> 🔑 17 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                95 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.88 % 
@@ -115,7 +115,8 @@
 🌃 Evening                477 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.54 % 
 🌙 Night                  346 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.42 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   246 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.23 % 
@@ -127,8 +128,7 @@ Saturday                 251 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 Sunday                   238 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.74 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
@@ -147,7 +147,7 @@ VS Code                  2 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Windows                  2 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
 JavaScript               22 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.14 % 
@@ -157,12 +157,9 @@ C++                      2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.92 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
-
 
  Last Updated on 26/11/2024 07:59:28 UTC
 <!--END_SECTION:waka-->
