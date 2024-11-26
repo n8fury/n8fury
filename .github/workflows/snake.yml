@@ -20,32 +20,27 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          ref: main # Use the main branch as the base
+          ref: main # Ensure the main branch is used
           fetch-depth: 0
 
-      # Step 2: Create or switch to the output branch
-      - name: Create or switch to output branch
-        run: |
-          git checkout -b output || git checkout output
-
-      # Step 3: Generate the snake.svg file
+      # Step 2: Generate the snake.svg file
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      # Step 4: Move the generated file into the assets folder
+      # Step 3: Move the generated file into the assets folder
       - name: Move snake.svg to assets folder
         run: |
           mkdir -p assets
           mv dist/snake.svg assets/snake.svg
 
-      # Step 5: Commit and push changes to the output branch
+      # Step 4: Commit and push changes to the main branch
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/snake.svg
           git commit -m "Update snake animation in assets folder" || echo "No changes to commit"
-          git push origin output
+          git push origin main
