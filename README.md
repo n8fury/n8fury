@@ -170,10 +170,10 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://leetcard.jacoblin.cool/n8fury?theme=nord&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats">
 </div>
 
- <strong> <p align=center> 📈 Contribution Graph: </p>  </strong>
+ <strong> <p align=center> 📈 Contribution Metrics: </p>  </strong>
 
 <br/>
-<p align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=n8fury&theme=dracula&card_width=520&type=png&fire=EB0000" alt="GitHub Streak" /></a></p>
+<p align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=n8fury&theme=tokyonight&card_width=520&type=png&fire=EB0000" alt="GitHub Streak" /></a></p>
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true&hide_border=false&custom_title=n8fury's%20Contribution%20Graph )](https://github.com/ashutosh00710/github-readme-activity-graph)
