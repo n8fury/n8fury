@@ -91,19 +91,19 @@
 
 📊 **Weekly Development Breakdown:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-464.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 46.7 kB Used in GitHub's Storage 
+> 📦 45.6 kB Used in GitHub's Storage 
  > 
-> 🏆 746 Contributions in the Year 2024
+> 🏆 781 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -124,7 +124,7 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2024 00:54:49 UTC
+ Last Updated on 22/12/2024 00:50:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
