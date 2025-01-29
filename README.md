@@ -93,19 +93,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-480.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-481.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.0 kB Used in GitHub's Storage 
+> 📦 50.4 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2025
+> 🏆 110 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I Mostly Code in JavaScript** 
 
@@ -124,7 +124,7 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 00:45:12 UTC
+ Last Updated on 29/01/2025 00:44:28 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
