@@ -11,15 +11,15 @@
 
 <!-- <img width="1000px" src="./assets/hello.gif" alt="header"> -->
 
-🌌 **Hey there! I’m an ambitious Computer Science student with a passion for Backend Development and a mission to transform complex code into effortless experiences.**  
+🌌 **Hey there!** I’m a Computer Science student passionate about Backend Development and turning complex code into smooth, user-friendly solutions.  
 
-🚀 **Coding since day one** of my programming journey, I’m all about building systems that make life simpler, focusing on every detail to ensure code that’s clean, efficient, and powerful. I believe in the magic of **readable, reusable, and clutter-free** code — because every line should bring value, not confusion.
+🚀 **Coding since day one**—I’ve always focused on building systems that simplify life. Clean, efficient, and powerful code is my jam. I believe in **readable, reusable, and clutter-free** logic because every line should solve problems, not create them.  
 
-💡 **What drives me:** A deep curiosity to discover new programming languages, frameworks, and tools, with a solid commitment to keeping my fundamentals sharp. Currently, I’m honing my skills on **LeetCode**, mastering problem-solving patterns, and expanding my approach to tackling real-world challenges. The ultimate goal? To create backends that are not just functional but also crafted with precision and care.
+💡 **What drives me?** Curiosity! I love exploring new languages, frameworks, and tools while keeping my CS fundamentals rock-solid. Right now, I’m sharpening my skills on **LeetCode**, mastering problem-solving patterns, and refining how I tackle real-world challenges. The goal? Crafting backends that aren’t just functional but *delightfully precise*.  
 
-🎯 **On a mission to** make an impact in the backend world, one project at a time. Whether it’s optimizing data flow or designing seamless architectures, I’m here to shape digital solutions that truly help. **Wishing myself luck as I dive deeper into this path — and if you’re here, maybe we’re already part of the same journey!**
+🎯 **Here to make an impact**—one project at a time. Whether it’s optimizing data flow or designing seamless architectures, I want to build solutions that matter. Luck is cool, but hard work is better—let’s see where this journey goes!  
 
-🌐 **Let’s connect and build a future where every line of code makes life just a bit easier.**
+🌐 **Let’s connect!** If you’re into code that makes life easier (or just want to geek out over backend magic), hit me up. Together, we can build tech that feels effortless. ✨
 <br/>
 <br/>
 <br/>
