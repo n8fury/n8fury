@@ -97,7 +97,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 53.0 kB Used in GitHub's Storage 
+> 📦 53.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 136 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,7 +124,7 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 00:44:28 UTC
+ Last Updated on 22/02/2025 00:44:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
