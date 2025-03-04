@@ -134,7 +134,7 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  <strong> <p align=center> 📈 Contribution Metrics: </p>  </strong>
 
 <br/>
-<p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-rho.vercel.app?user=n8fury&theme=tokyonight&card_width=520&type=png&fire=EB0000" alt="GitHub Streak" /></a></p>
+<p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-rho.vercel.app?user=n8fury&theme=tokyonight&card_width=520&fire=EB0000" alt="GitHub Streak" /></a></p>
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true&hide_border=false&custom_title=n8fury's%20Contribution%20Graph )](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -161,3 +161,5 @@ TypeScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- add snake svg from @github.com/mikyll -->
 <!-- fixed snake svg push issue from @github.com/crazy-max -->
 <!-- fixe wakatime ITA from @github.com/mikyll  -->
+
+
