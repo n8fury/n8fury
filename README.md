@@ -31,7 +31,7 @@
 <p  align = "left">
 
 - 🔭 I’m currently working on [***Django 4 By Example***](https://github.com/n8fury/Django_4_by_examples)  
-- 🌱 I’m currently learning **Node.js**  
+- 🌱 I’m currently learning **Django**  
 
 - <details>
   <summary>☎️ Connect with me:</summary>
