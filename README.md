@@ -93,11 +93,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 52.5 kB Used in GitHub's Storage 
+> 📦 52.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,7 +124,7 @@ PHP                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/n8fury/n8fury/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 00:38:31 UTC
+ Last Updated on 15/03/2025 00:46:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
