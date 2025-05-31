@@ -21,4 +21,4 @@ jobs:
           SYMBOL_VERSION: "2"
           SHOW_LINES_OF_CODE: "True"
           SHOW_UPDATED_DATE: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
