@@ -78,18 +78,18 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           repositories_forks: yes
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: n8fury
+          # plugin_leetcode: yes
+          # plugin_leetcode_limit_recent: 2
+          # plugin_leetcode_limit_skills: 10
+          # plugin_leetcode_sections: solved
+          # plugin_leetcode_user: .user.login
+          # plugin_wakatime: yes
+          # plugin_wakatime_days: 7
+          # plugin_wakatime_limit: 5
+          # plugin_wakatime_repositories_visibility: all
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          # plugin_wakatime_url: https://wakatime.com
+          # plugin_wakatime_user: n8fury
           # File output options
           filename: assets/github-metrics.svg
           config_output: svg
