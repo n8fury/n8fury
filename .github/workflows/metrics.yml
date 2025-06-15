@@ -73,16 +73,16 @@ jobs:
           # plugin_notable_types: commit
           plugin_stars: yes
           plugin_stars_limit: 4
-          # plugin_topics: yes
-          # plugin_topics_limit: 20
-          # plugin_topics_mode: icons
-          # plugin_topics_sort: stars
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           repositories_forks: yes
-          # plugin_leetcode: yes
-          # plugin_leetcode_limit_recent: 2
-          # plugin_leetcode_limit_skills: 10
-          # plugin_leetcode_sections: solved
-          # plugin_leetcode_user: .user.login
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 5
+          plugin_leetcode_limit_skills: 15
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: .user.login
           # plugin_wakatime: yes
           # plugin_wakatime_days: 7
           # plugin_wakatime_limit: 5
