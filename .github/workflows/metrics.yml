@@ -66,11 +66,11 @@ jobs:
           plugin_lines_history_limit: 4
           plugin_lines_repositories_limit: 36
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
+          # plugin_notable: yes
+          # plugin_notable_from: organization
+          # plugin_notable_indepth: yes
+          # plugin_notable_repositories: yes
+          # plugin_notable_types: commit
           plugin_stars: yes
           plugin_stars_limit: 4
           # plugin_topics: yes
