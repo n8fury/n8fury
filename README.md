@@ -7,7 +7,7 @@
 <div align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </div>
-<div align="center"> <h3><strong> Assalamu Alaikum! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></strong></h3></div>
+<div align="center"> <h3><strong> Assalamu Alaikum! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25px"></strong></h3></div>
 
 <!-- <img width="1000px" src="./assets/hello.gif" alt="header"> -->
 
