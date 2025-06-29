@@ -91,15 +91,15 @@
 
 📊 **Weekly Development Breakdown:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 60.1 kB Used in GitHub's Storage 
+> 📦 60.5 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2025
+> 🏆 560 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,17 +110,17 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.77 % 
-HTML                     8 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.90 % 
-TypeScript               3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.84 % 
-Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 % 
-PHP                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.61 % 
+JavaScript               29 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.03 % 
+HTML                     8 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.70 % 
+TypeScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.35 % 
+Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.59 % 
+PHP                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.59 % 
 ```
 
 
 
 
- Last Updated on 22/06/2025 01:00:33 UTC
+ Last Updated on 29/06/2025 01:01:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
