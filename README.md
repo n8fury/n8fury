@@ -11,16 +11,19 @@
 
 <!-- <img width="1000px" src="./assets/hello.gif" alt="header"> -->
 
-🌌 **Hey there!** I’m a Computer Science student passionate about Backend Development and turning complex code into smooth, user-friendly solutions.  
+🌌 Hey, This is Mamdud Hasan **Software Engineer at [Zeroozen Energy Ltd.](https://zeroozen.com)** — building systems that power the future of **Light Electric Vehicles (LEV)**.
 
-🚀 **Coding since day one**—I’ve always focused on building systems that simplify life. Clean, efficient, and powerful code is my jam. I believe in **readable, reusable, and clutter-free** logic because every line should solve problems, not create them.  
+🚀 **From CS student to full-time engineer**, I’ve stayed true to one principle:  **Code should be clean, efficient, and built to last.**  
+Whether it’s managing large-scale data, crafting seamless APIs, or architecting systems from scratch, I focus on **readable, reusable, and clutter-free solutions**.
 
-💡 **What drives me?** Curiosity! I love exploring new languages, frameworks, and tools while keeping my CS fundamentals rock-solid. Right now, I’m sharpening my skills on **LeetCode**, mastering problem-solving patterns, and refining how I tackle real-world challenges. The goal? Crafting backends that aren’t just functional but *delightfully precise*.  
+💡 **What I love** <br/>
+I'm driven by curiosity! I love exploring new languages, frameworks, and tools while keeping my CS fundamentals rock-solid. Right now, I'm sharpening my skills on **LeetCode**, mastering problem-solving patterns, and refining how I tackle real-world challenges. My goal? Crafting backends that aren't just functional but *delightfully precise*.
 
-🎯 **Here to make an impact**—one project at a time. Whether it’s optimizing data flow or designing seamless architectures, I want to build solutions that matter. Luck is cool, but hard work is better—let’s see where this journey goes!  
+⚡ **Impact-driven**  
+At [Zeroozen Energy Ltd.](https://zeroozen.com), I'm helping make LEV infrastructure smarter through scalable software solutions and data-driven integrations. For me, it's not just about writing code—it's about building technology that creates real value. Whether optimizing data flow or designing seamless architectures, I build solutions that matter, one project at a time. Hard work beats luck every time—excited to see where this journey leads!
 
-🌐 **Let’s connect!** If you’re into code that makes life easier (or just want to geek out over backend magic), hit me up. Together, we can build tech that feels effortless. ✨
-<br/>
+🌐 **Let’s connect!** <br/>
+If you’re into code that makes life easier just argue about tabs vs spaces, I'm here for it. Let's create some digital magic! ✨
 <br/>
 <br/>
 <br/>
