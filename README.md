@@ -147,4 +147,4 @@
 <!-- todo -->
 <!-- add snake svg from @github.com/mikyll -->
 <!-- fixed snake svg push issue from @github.com/crazy-max -->
-<!-- fixe wakatime ITA from @github.com/mikyll -->
+<!-- fix wakatime ITA from @github.com/mikyll -->
