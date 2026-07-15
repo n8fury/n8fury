@@ -134,7 +134,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 
-**[⬆ back to the top](# )**
+**[⬆ back to the top](#)**
 
 **These Readme stats are generated using**
 
