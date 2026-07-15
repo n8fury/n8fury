@@ -1,98 +1,76 @@
-<img src="./assets/js.gif" alt="header">
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--  n8fury · Mamdud Hasan · Profile README                         -->
+<!--  Banner: ./assets/header.svg (animated SVG, no JS)              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<h1  align="center"><strong> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  Welcome to Mamdud Hasan's Profile <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </strong></h1>
+<img width="100%" src="./assets/dark.svg" alt="n8fury — Mamdud Hasan · Software Engineer" />
 
-<img width="100%" height="300px" src="./assets/header.svg" alt="header">
-
-<div align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Backend+Developer;Opensource+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
-</div>
-<div align="center"> <h3><strong> Assalamu Alaikum! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25px"></strong></h3></div>
-
-<!-- <img width="1000px" src="./assets/hello.gif" alt="header"> -->
-
-🌌 Hey, This is Mamdud Hasan **Software Engineer at [Zeroozen Energy Ltd.](https://zeroozen.com)** — building systems that power the future of **Light Electric Vehicles (LEV)**.
-
-🚀 **From CS student to full-time engineer**, I’ve stayed true to one principle:  **Code should be clean, efficient, and built to last.**  
-Whether it’s managing large-scale data, crafting seamless APIs, or architecting systems from scratch, I focus on **readable, reusable, and clutter-free solutions**.
-
-💡 **What I love** <br/>
-I'm driven by curiosity! I love exploring new languages, frameworks, and tools while keeping my CS fundamentals rock-solid. Right now, I'm sharpening my skills on **LeetCode**, mastering problem-solving patterns, and refining how I tackle real-world challenges. My goal? Crafting backends that aren't just functional but *delightfully precise*.
-
-⚡ **Impact-driven**  
-At [Zeroozen Energy Ltd.](https://zeroozen.com), I'm helping make LEV infrastructure smarter through scalable software solutions and data-driven integrations. For me, it's not just about writing code—it's about building technology that creates real value. Whether optimizing data flow or designing seamless architectures, I build solutions that matter, one project at a time. Hard work beats luck every time—excited to see where this journey leads!
-
-🌐 **Let’s connect!** <br/>
-If you’re into code that makes life easier just argue about tabs vs spaces, I'm here for it. Let's create some digital magic! ✨
-<br/>
 <br/>
 <br/>
 
-<p align= "right">
-<img align="right" alt="Coder GIF"  width="40%"  src="./assets/mario.gif" />
-</p>
-<p  align = "left">
+## `whoami`
 
-- 🔭 I’m currently working on [***Django 4 By Example***](https://github.com/n8fury/Django_4_by_examples)  
-- 🌱 I’m currently learning **Django**  
+**Software Engineer at [Zeroozen Energy Ltd.](https://zeroozen.com)** — founding team, building the systems that power **Light Electric Vehicles (LEV)** in Bangladesh: GPS fleet telematics, battery management backends, and the data infrastructure that ties it all together.
 
-- <details>
-  <summary>☎️ Connect with me:</summary>
+**What I actually do day to day** — design and ship backend systems (TypeScript/NestJS + PostgreSQL/TimescaleDB), wire IoT hardware to the cloud (ESP32 → MQTT → time-series pipelines), and turn raw telemetry into decisions. Clean, efficient, built to last — code that the next engineer thanks you for.
+
+**Outside the day job** — I run [Cloud5](https://cloud5.dev), a design & development studio: web/app builds, AI chatbots, and product consulting. Curiosity-driven, fundamentals-first.
+
+**Let's connect** — if you're into backend architecture, EV/energy tech, or just want to argue tabs vs spaces, I'm here for it. ✨
+
+<br/>
+
+<details>
+  <summary>🛠️ <strong>Stack & Tools</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+</details>
+
+<details>
+  <summary>☎️ <strong>Contact</strong></summary>
+  <br/>
   <p align="left">
-    <a href="https://twitter.com/n8fury1" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter - n8fury1" />
-    </a>
     <a href="https://linkedin.com/in/mamdud-hasan" target="_blank">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - mamdud-hasan" />
     </a>
     <a href="mailto:mhjoy547@gmail.com" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - mhjoy547@gmail.com" />
     </a>
+    <a href="https://twitter.com/n8fury1" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter - n8fury1" />
+    </a>
   </p>
-
 </details>
 
-- <details>
-  <summary>🛠️ Languages and Tools:</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</details>
-
-- <details>
-  <summary>📊 GitHub Metrics:</summary>
+<details>
+  <summary>📊 <strong>GitHub Metrics</strong></summary>
   <p align="left">
     <img src="./assets/github-metrics.svg">
   </p>
-
 </details>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-📊 **Weekly Development Breakdown:**
+## 📊 Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -126,21 +104,29 @@ TeX                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 15/04/2026 01:27:02 UTC
 <!--END_SECTION:waka-->
 
+<!-- ── LeetCode — commencing soon, uncomment when the grind begins ──
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/n8fury?theme=nord&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats">
 </div>
-
- <strong> <p align=center> 📈 Contribution Metrics: </p>  </strong>
+-->
 
 <br/>
-<p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lake-rho.vercel.app?user=n8fury&theme=tokyonight&card_width=520&fire=EB0000" alt="GitHub Streak" /></a></p>
-<br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true&hide_border=false&custom_title=n8fury's%20Contribution%20Graph )](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈 Contribution Metrics
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-lake-rho.vercel.app?user=n8fury&theme=tokyonight&card_width=520&fire=EB0000" alt="GitHub Streak" />
+  </a>
+</p>
+
+[![n8fury's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n8fury&theme=github-compact&area=true&hide_border=false&custom_title=n8fury's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="./assets/snake.svg" alt="Mamdud Hasan's GitHub Stats" />
+  <img src="./assets/snake.svg" alt="Mamdud Hasan's GitHub Contribution Snake" />
 </div>
+
+<br/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
@@ -159,6 +145,4 @@ TeX                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- todo -->
 <!-- add snake svg from @github.com/mikyll -->
 <!-- fixed snake svg push issue from @github.com/crazy-max -->
-<!-- fixe wakatime ITA from @github.com/mikyll  -->
-
-
+<!-- fixe wakatime ITA from @github.com/mikyll -->
