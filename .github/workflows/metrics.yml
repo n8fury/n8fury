@@ -1,18 +1,29 @@
 name: Generate Github Metrics
+
+# SLOT 2 of 3 — one hour after waka. Was previously sharing waka's cron slot,
+# which is what broke the README for three months: this job finished in ~2 min
+# and pushed github-metrics.svg while waka was still generating, leaving waka's
+# clone stale and its push rejected.
 on:
   schedule:
-     # Runs at 12am IST
-    - cron: '0 0 */7 * *'
+    - cron: '0 1 1,15 * *' # 01:00 UTC
   workflow_dispatch:
+
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Pinned: @latest is a moving tag and gives you no signal when upstream
+      # changes break the run.
+      - uses: lowlighter/metrics@v3.34
         with:
-          # Your GitHub token
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
@@ -24,23 +35,11 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Dhaka
           config_twemoji: yes
-          # plugin_achievements: yes
-          # plugin_achievements_display: detailed
-          # plugin_achievements_secrets: yes
-          # plugin_achievements_threshold: C
-          # plugin_activity: yes
-          # plugin_activity_days: 14
-          # plugin_activity_filter: all
-          # plugin_activity_limit: 3
-          # plugin_activity_load: 300
-          # plugin_activity_timestamps: yes
-          # plugin_activity_visibility: all
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
-          # plugin_habits_charts: yes
           plugin_habits_charts_type: chartist
           plugin_habits_days: 30
           plugin_habits_facts: yes
@@ -66,11 +65,6 @@ jobs:
           plugin_lines_history_limit: 4
           plugin_lines_repositories_limit: 36
           plugin_lines_sections: base
-          # plugin_notable: yes
-          # plugin_notable_from: organization
-          # plugin_notable_indepth: yes
-          # plugin_notable_repositories: yes
-          # plugin_notable_types: commit
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
@@ -78,20 +72,20 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           repositories_forks: yes
-          # plugin_leetcode: yes
-          # plugin_leetcode_limit_recent: 5
-          # plugin_leetcode_limit_skills: 15
-          # plugin_leetcode_sections: solved
-          # plugin_leetcode_user: .user.login
+
+          # ── WakaTime ──────────────────────────────────────────────────────
+          # Do NOT uncomment until `curl .../stats/last_7_days` returns real
+          # data. Your original commented block was also missing the token
+          # line below, so it would have failed even if the data existed.
           # plugin_wakatime: yes
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           # plugin_wakatime_days: 7
           # plugin_wakatime_limit: 5
+          # plugin_wakatime_sections: time, languages, editors, os
           # plugin_wakatime_repositories_visibility: all
-          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           # plugin_wakatime_url: https://wakatime.com
           # plugin_wakatime_user: n8fury
+
           # File output options
           filename: assets/github-metrics.svg
           config_output: svg
-
-

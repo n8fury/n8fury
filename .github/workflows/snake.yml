@@ -1,12 +1,15 @@
 name: Generate Snake Animation
 
+# SLOT 3 of 3 — runs daily, but at 02:00 so it never lands inside the waka or
+# metrics windows on the 1st / 8th / 15th / 22nd.
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 0 * * *"
+  schedule:
+    - cron: '0 2 * * *' # 02:00 UTC daily
   workflow_dispatch:
-  # push:
-  #   branches:
-  #   - mai
+
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -16,31 +19,48 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # Step 1: Check out the main branch
       - name: Checkout main branch
         uses: actions/checkout@v5
         with:
-          ref: main # Ensure the main branch is used
+          ref: main
           fetch-depth: 0
 
-      # Step 2: Generate the snake.svg file
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      # Step 3: Move the generated file into the assets folder
       - name: Move snake.svg to assets folder
         run: |
           mkdir -p assets
           mv dist/snake.svg assets/snake.svg
 
-      # Step 4: Commit and push changes to the main branch
+      # Hardened: the original did a bare `git push origin main`, which fails
+      # outright if anything landed on main since checkout. Rebase-and-retry
+      # makes this job survive a collision instead of dying on it.
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/snake.svg
-          git commit -m "Update snake animation in assets folder" || echo "No changes to commit"
-          git push origin main
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(assets): update snake animation"
+
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying in 10s..."
+            sleep 10
+          done
+
+          echo "::error::Push failed after 3 attempts."
+          exit 1

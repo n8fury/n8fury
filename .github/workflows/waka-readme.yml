@@ -1,24 +1,38 @@
 name: Generate Waka Metrics
 
+# SLOT 1 of 3 — runs first because it is by far the slowest (4-8 min) and the
+# action clones the repo at startup then pushes at the very end. Anything that
+# pushes to main inside that window makes its push a non-fast-forward, which
+# this action swallows and reports as success.
 on:
   schedule:
-     # Runs at 12am IST
-     - cron: '0 0 */7 * *'
+    - cron: '0 0 1,15 * *' # 00:00 UTC
   workflow_dispatch:
+
+# Shared by waka / metrics / snake. Serialises every workflow that writes to
+# main, so a slow run queues instead of colliding.
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_SHORT_INFO: "True"
-          SYMBOL_VERSION: "2"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: 'False'
+          SHOW_DAYS_OF_WEEK: 'True'
+          SHOW_LANGUAGE_PER_REPO: 'False'
+          SHOW_SHORT_INFO: 'True'
+          SYMBOL_VERSION: '2'
+          SHOW_LINES_OF_CODE: 'True'
+          SHOW_UPDATED_DATE: 'True'
+          SHOW_LOC_CHART: 'False'
+          SHOW_PROFILE_VIEWS: 'False'
+          SHOW_COMMIT: 'True'
+          SHOW_LANGUAGE: 'True'
