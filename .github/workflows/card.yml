@@ -1,0 +1,78 @@
+name: Generate Profile Card
+
+# SLOT 4 — 03:00, clear of waka (00:00), metrics (01:00) and snake (02:00).
+# Single writer: fetches WakaTime, regenerates all four SVGs, commits once.
+on:
+  schedule:
+    - cron: '0 3 1,15 * *'   # 03:00 UTC — 1st and 15th
+  workflow_dispatch:
+
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
+
+jobs:
+  build-card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # continue-on-error + `|| true`: a dead key, a rate limit or a WakaTime
+      # outage must not fail the build. No waka.json simply means the card is
+      # regenerated without the activity section.
+      - name: Fetch WakaTime stats
+        continue-on-error: true
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          set -uo pipefail
+          if [ -z "${WAKATIME_API_KEY}" ]; then
+            echo "::warning::WAKATIME_API_KEY not set - activity section will be skipped"
+            exit 0
+          fi
+          curl -sf --max-time 30 \
+            "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${WAKATIME_API_KEY}" \
+            -o waka.json \
+            || echo "::warning::WakaTime fetch failed - activity section will be skipped"
+
+      - name: Build cards
+        run: python build_card.py waka.json
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          rm -f waka.json                    # never commit the API payload
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/dark.svg assets/light.svg \
+                  assets/mobile-dark.svg assets/mobile-light.svg
+
+          if git diff --staged --quiet; then
+            echo "Card unchanged."
+            exit 0
+          fi
+
+          git commit -m "chore(assets): regenerate profile card"
+
+          for attempt in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push origin main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying in 10s..."
+            sleep 10
+          done
+
+          echo "::error::Push failed after 3 attempts."
+          exit 1

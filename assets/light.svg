@@ -3,15 +3,15 @@
 <desc>Terminal-style profile card: ASCII flame artwork with a neofetch-style listing of role, location, languages, stack, projects and coding activity.</desc>
 <defs>
   <linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="100%">
-    <stop id="gs0" offset="0%" stop-color="#EF4444"/>
-    <stop id="gs1" offset="100%" stop-color="#F97316"/>
+    <stop id="gs0" offset="0%" stop-color="#B91C1C"/>
+    <stop id="gs1" offset="100%" stop-color="#C2410C"/>
   </linearGradient>
   <radialGradient id="bg" cx="30%" cy="20%" r="80%">
-    <stop offset="0%" stop-color="#151010"/>
-    <stop offset="100%" stop-color="#0A0707"/>
+    <stop offset="0%" stop-color="#FDFBFA"/>
+    <stop offset="100%" stop-color="#F0E9E4"/>
   </radialGradient>
   <pattern id="tex" width="4" height="4" patternUnits="userSpaceOnUse">
-    <rect width="4" height="1" fill="#FCA5A5" opacity="0.04"/>
+    <rect width="4" height="1" fill="#78716C" opacity="0.05"/>
   </pattern>
   <mask id="reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="702">
     <rect id="revealbar" x="0" y="0" width="1180" height="702" fill="#fff"/>
@@ -42,11 +42,11 @@
   <style>
     .ascii  { font-family: 'Courier New', Consolas, Menlo, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 8.3px; fill: url(#ag); letter-spacing: -0.2px; }
     text    { font-family: 'Courier New', Consolas, Menlo, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 15px; white-space: pre; }
-    .key    { fill: #F97316; font-weight: bold; }
-    .val    { fill: #E5E7EB; }
-    .dim    { fill: #57534E; }
-    .head   { fill: #EF4444; font-size: 17px; font-weight: bold; }
-    .accent { fill: #10B981; font-weight: bold; }
+    .key    { fill: #C2410C; font-weight: bold; }
+    .val    { fill: #1C1917; }
+    .dim    { fill: #D6D3D1; }
+    .head   { fill: #9F1239; font-size: 17px; font-weight: bold; }
+    .accent { fill: #047857; font-weight: bold; }
 
     #revealbar { transform-box: view-box; transform-origin: 0 0;
                  animation: reveal 2.4s cubic-bezier(.25,.1,.25,1) backwards; }
@@ -63,8 +63,8 @@
 
     #gs0 { animation: h0 9s linear infinite; }
     #gs1 { animation: h1 9s linear infinite; }
-    @keyframes h0 { 0%,100%{stop-color:#EF4444} 33%{stop-color:#F97316} 66%{stop-color:#FBBF24} }
-    @keyframes h1 { 0%,100%{stop-color:#F97316} 33%{stop-color:#FBBF24} 66%{stop-color:#EF4444} }
+    @keyframes h0 { 0%,100%{stop-color:#B91C1C} 33%{stop-color:#C2410C} 66%{stop-color:#B45309} }
+    @keyframes h1 { 0%,100%{stop-color:#C2410C} 33%{stop-color:#B45309} 66%{stop-color:#B91C1C} }
 
     @media (prefers-reduced-motion: reduce) {
       #revealbar, .lc, .mr, .art, .f0, .f1, .f2, #gs0, #gs1 {

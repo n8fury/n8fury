@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1038" viewBox="0 0 600 1038" role="img">
+<title>MD. Mamdud Hasan (n8fury) — Software Engineer at Zeroozen Energy. Backend, IoT and data systems for light electric vehicles.</title>
+<desc>Terminal-style profile card: ASCII flame artwork with a neofetch-style listing of role, location, languages, stack, projects and coding activity.</desc>
+<defs>
+  <linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop id="gs0" offset="0%" stop-color="#B91C1C"/>
+    <stop id="gs1" offset="100%" stop-color="#C2410C"/>
+  </linearGradient>
+  <radialGradient id="bg" cx="30%" cy="20%" r="80%">
+    <stop offset="0%" stop-color="#FDFBFA"/>
+    <stop offset="100%" stop-color="#F0E9E4"/>
+  </radialGradient>
+  <pattern id="tex" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#78716C" opacity="0.05"/>
+  </pattern>
+
+  <style>
+    .ascii  { font-family: 'Courier New', Consolas, Menlo, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 8.3px; fill: url(#ag); letter-spacing: -0.2px; }
+    text    { font-family: 'Courier New', Consolas, Menlo, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 19px; white-space: pre; }
+    .key    { fill: #C2410C; font-weight: bold; }
+    .val    { fill: #1C1917; }
+    .dim    { fill: #D6D3D1; }
+    .head   { fill: #9F1239; font-size: 20px; font-weight: bold; }
+    .accent { fill: #047857; font-weight: bold; }
+
+    .mr { animation: rise .5s ease-out backwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } }
+    .art { animation: fade 1.2s ease-out backwards; }
+    @keyframes fade { from { opacity: 0; } }
+
+    .f0 { animation: fk0 2.3s ease-in-out infinite; }
+    .f1 { animation: fk1 3.1s ease-in-out infinite; }
+    .f2 { animation: fk2 4.3s ease-in-out infinite; }
+    @keyframes fk0 { 0%,100%{opacity:1} 28%{opacity:.70} 52%{opacity:.95} 76%{opacity:.80} }
+    @keyframes fk1 { 0%,100%{opacity:1} 34%{opacity:.84} 68%{opacity:.93} }
+    @keyframes fk2 { 0%,100%{opacity:1} 46%{opacity:.91} }
+
+    #gs0 { animation: h0 9s linear infinite; }
+    #gs1 { animation: h1 9s linear infinite; }
+    @keyframes h0 { 0%,100%{stop-color:#B91C1C} 33%{stop-color:#C2410C} 66%{stop-color:#B45309} }
+    @keyframes h1 { 0%,100%{stop-color:#C2410C} 33%{stop-color:#B45309} 66%{stop-color:#B91C1C} }
+
+    @media (prefers-reduced-motion: reduce) {
+      #revealbar, .lc, .mr, .art, .f0, .f1, .f2, #gs0, #gs1 {
+        animation: none !important; transform: none !important; opacity: 1 !important;
+      }
+    }
+  </style>
+</defs>
+
+<rect width="600" height="1038" fill="url(#bg)"/>
+<rect width="600" height="1038" fill="url(#tex)"/>
+
+<g>
+<g class="art" transform="translate(156.576,30) scale(0.6)">
+<text class="ascii f0" x="0" y="0">
+<tspan x="0" y="0.0" xml:space="preserve">                                                             ..</tspan>
+<tspan x="0" y="7.3" xml:space="preserve">                                                           .-:                  .-</tspan>
+<tspan x="0" y="14.6" xml:space="preserve">                                                       .:---.                   :=.</tspan>
+<tspan x="0" y="21.9" xml:space="preserve">                                                     .---=:           .        .--</tspan>
+<tspan x="0" y="29.2" xml:space="preserve">                                                    .----:            -.      :=-.</tspan>
+<tspan x="0" y="36.5" xml:space="preserve">                                                    ----:            .-.     .=-.</tspan>
+<tspan x="0" y="43.8" xml:space="preserve">                                                   .----             -=.     --</tspan>
+<tspan x="0" y="51.1" xml:space="preserve">                                     :             :---:            :=:      :.</tspan>
+<tspan x="0" y="58.4" xml:space="preserve">                 :                : ::             :----. ..       :-:</tspan>
+<tspan x="0" y="65.7" xml:space="preserve">                 ::              :: -        :     :------=.       :</tspan>
+<tspan x="0" y="73.0" xml:space="preserve">                 -:              -: .       .:     :-------:   ..        .</tspan>
+<tspan x="0" y="80.3" xml:space="preserve">                 -.             .--         .:     ---------:.:-.        :.</tspan>
+<tspan x="0" y="87.6" xml:space="preserve">                 -.              --.         -.    ---------===-.    .   -.</tspan>
+<tspan x="0" y="94.9" xml:space="preserve">                 ::              :=:     .   --:. :---------:.--    ::  :-</tspan>
+<tspan x="0" y="102.2" xml:space="preserve">                 .-               --:    .: .--------------:  ..   .-:  :   .      :</tspan>
+<tspan x="0" y="109.5" xml:space="preserve">                  ..       .      :--.    -----------------        ---. .   -.    .-</tspan>
+<tspan x="0" y="116.8" xml:space="preserve">                           -:      ---    :=--------------: :     :---:    .=:    .-</tspan>
+<tspan x="0" y="124.1" xml:space="preserve">                       .    ::     .--:   -------------------.   .-----   .---    .=:</tspan>
+<tspan x="0" y="131.4" xml:space="preserve">                       ::        :. ---.. --------------------:::-----:   ---:     --</tspan>
+<tspan x="0" y="138.7" xml:space="preserve">                        --        : :=--:.=---------------------------.   -=-      .=.</tspan>
+<tspan x="0" y="146.0" xml:space="preserve">             :           --.        :---:----------------:------------   .-:  :     -.</tspan>
+</text>
+<text class="ascii f1" x="0" y="0">
+<tspan x="0" y="153.3" xml:space="preserve">             -.  :.      .=-.    .: .-------------=..=-:. :-----::----: .-.  .=.    -.</tspan>
+<tspan x="0" y="160.6" xml:space="preserve">              -. .-. :    ---  . :- .-------------. .-. ::.----=. -----.-:   :=-    :</tspan>
+<tspan x="0" y="167.9" xml:space="preserve">               :  :- :-.  .--. ::.=:.------------.:-.. -=-.-----  .----.:- . :--.</tspan>
+<tspan x="0" y="175.2" xml:space="preserve">               .. .--:--:  --:  ---------.-=--=- -=-. ----.------------.:=..----.</tspan>
+<tspan x="0" y="182.5" xml:space="preserve">                   :=---:: -=.   --------. .: -::=---:----.-------------.=: :=--.</tspan>
+<tspan x="0" y="189.8" xml:space="preserve">                    -=--   .-::: .=-------.  :----------=::::-----------.-- .--:</tspan>
+<tspan x="0" y="197.1" xml:space="preserve">                     :: .-.+=-@@%.---------- .=----------.:.---------:-=::- .=-</tspan>
+<tspan x="0" y="204.4" xml:space="preserve">             :     :    +@#@@%@@@%.----------:-----------..--------.   :-.: :- ..</tspan>
+<tspan x="0" y="211.7" xml:space="preserve">             ..    -.  +@%**%%%%#@::=::-:---------------: --------.     :...=:.=.</tspan>
+<tspan x="0" y="219.0" xml:space="preserve">                   -: .%=     :+:.  --.-:----------.---=..=------       :-.:=::-</tspan>
+<tspan x="0" y="226.3" xml:space="preserve">                   -:..  :=: +@%.   .- .--------.-.:-----:-----:        :=--=::-.</tspan>
+<tspan x="0" y="233.6" xml:space="preserve">                .  -:::  .=%=*+         --------.-::=---------:         :----::=.</tspan>
+<tspan x="0" y="240.9" xml:space="preserve">                . .---:  -+*=:. ::.     :-::=--=:.-.---------  .        -----::-</tspan>
+<tspan x="0" y="248.2" xml:space="preserve">                  -----.  :+*:  ::. .    . ::.---:.::-==---.  ..       .-----:::</tspan>
+<tspan x="0" y="255.5" xml:space="preserve">                 :-----:     :*.   -%..+: :::------.......   ..        -=:---:.</tspan>
+<tspan x="0" y="262.8" xml:space="preserve">                 .-----  - .%:=+--=+#.:%- -:-=------:...             .--.:---:</tspan>
+<tspan x="0" y="270.1" xml:space="preserve">                  :=--- .@#+-  +++-=        ...------:..:::........:::..:---=.</tspan>
+<tspan x="0" y="277.4" xml:space="preserve">                  .-=-: :=*%%*+==----=*#+    .  ----:::..:::::::::::.:--..-=:-+</tspan>
+<tspan x="0" y="284.7" xml:space="preserve">                    :-- :%*+==+*###@@@@#+ +- :  .----:.::.:-----------. .-=-:=*%=</tspan>
+<tspan x="0" y="292.0" xml:space="preserve">                  :-:.:: .+*=-**+**+--:. .#*   -:.=--=: .-:..:---::.  .:-:: +#=-%%.</tspan>
+<tspan x="0" y="299.3" xml:space="preserve">                   .:.    . :--+==-:   :#+:#+  :..------  --:......::--::-%%.-#%:*#.</tspan>
+</text>
+<text class="ascii f2" x="0" y="0">
+<tspan x="0" y="306.6" xml:space="preserve">                          :.           %@@++@%.  -=------. :-=-----=-:-.=@@@#: *#:**</tspan>
+<tspan x="0" y="313.9" xml:space="preserve">                       .:         :+++*@@@==##. :=::------. .-------:%@#++#@%=:.==*%</tspan>
+<tspan x="0" y="321.2" xml:space="preserve">                        ..       =#@@@@#*=:%@%  ..:---. :=:   .----.-@##@*-=-#@@##@=</tspan>
+<tspan x="0" y="328.5" xml:space="preserve">                                :@@*++%@.%@@@# .::=--  :=:....:.:=-  =@@#@*  :+*%%+</tspan>
+<tspan x="0" y="335.8" xml:space="preserve">                             .. .%=-%%+=:%#@#@+ :-:-. .-..::=- -..:   :*#%*++: .=%+</tspan>
+<tspan x="0" y="343.1" xml:space="preserve">                                  :#@@@.=*:===*:        ::.%@#=.-:      ..+@@@@@@*.</tspan>
+<tspan x="0" y="350.4" xml:space="preserve">                                 =#@###=#@+%%=*=- :-:::-- *@##@*--.        .-==-:</tspan>
+<tspan x="0" y="357.7" xml:space="preserve">                               :*@###@@:=*:=-**+- .----:  %##@#@#=:</tspan>
+<tspan x="0" y="365.0" xml:space="preserve">                             -*#@###@#-                   =@@###@@*:</tspan>
+<tspan x="0" y="372.3" xml:space="preserve">                          :+%@@##@@@*:                   . -#@@@##@#+:</tspan>
+<tspan x="0" y="379.6" xml:space="preserve">                      :+%#@@@@@@#%+:  *+                +%  .=%#@@@@@@%+-.</tspan>
+<tspan x="0" y="386.9" xml:space="preserve">                       ::-==++=-:.    *@*:.=-       -: +@*    ..-+****%*+=:</tspan>
+<tspan x="0" y="394.2" xml:space="preserve">                               .---   -#@%.-------:.:-*@%.   ---.</tspan>
+<tspan x="0" y="401.5" xml:space="preserve">                                -=--.  ::.:--=----==-:==.  .----.</tspan>
+<tspan x="0" y="408.8" xml:space="preserve">                                 :-==--:----:.. ..:--=-:::--=-:</tspan>
+<tspan x="0" y="416.1" xml:space="preserve">                                   .:----::..:----:.:::-----:.</tspan>
+<tspan x="0" y="423.4" xml:space="preserve">                                     .-----:------=------.</tspan>
+<tspan x="0" y="430.7" xml:space="preserve">                                      .:-::---------::--.</tspan>
+<tspan x="0" y="438.0" xml:space="preserve">                                          -----------</tspan>
+<tspan x="0" y="445.3" xml:space="preserve">                                          :--------=:</tspan>
+<tspan x="0" y="452.6" xml:space="preserve">                                            ........</tspan>
+</text>
+</g>
+<text class="mr" x="24" y="336" textLength="205.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.35s"><tspan class="head">n8fury@DR460NR1D3R</tspan></text>
+<text class="mr" x="24" y="369" textLength="353.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.41s"><tspan class="key">User</tspan><tspan class="dim">: </tspan><tspan class="val">MD. Mamdud Hasan (n8fury)</tspan></text>
+<text class="mr" x="24" y="396" textLength="376.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.47s"><tspan class="key">OS</tspan><tspan class="dim">: </tspan><tspan class="val">Arch Linux, Windows 11 + WSL2</tspan></text>
+<text class="mr" x="24" y="423" textLength="330.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.53s"><tspan class="key">Host</tspan><tspan class="dim">: </tspan><tspan class="val">Zeroozen Energy Limited</tspan></text>
+<text class="mr" x="24" y="450" textLength="433.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.59s"><tspan class="key">Kernel</tspan><tspan class="dim">: </tspan><tspan class="val">Web Dev, REST-Oriented Backend</tspan></text>
+<text class="mr" x="24" y="477" textLength="399.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.65s"><tspan class="key">Shell</tspan><tspan class="dim">: </tspan><tspan class="val">Cloud5 — Design &amp; Dev Studio</tspan></text>
+<text class="mr" x="24" y="504" textLength="285.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.71s"><tspan class="key">Locale</tspan><tspan class="dim">: </tspan><tspan class="val">Dhaka, Bangladesh</tspan></text>
+<text class="mr" x="24" y="541" textLength="524.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.77s"><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Programming</tspan><tspan class="dim">: </tspan><tspan class="val">JavaScript, Python, C++</tspan></text>
+<text class="mr" x="24" y="568" textLength="524.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.83s"><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Computer</tspan><tspan class="dim">: </tspan><tspan class="val">HTML, CSS, Markdown, LaTeX</tspan></text>
+<text class="mr" x="24" y="595" textLength="467.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.89s"><tspan class="key">Stack</tspan><tspan class="dim">.</tspan><tspan class="key">Backend</tspan><tspan class="dim">: </tspan><tspan class="val">Node.js, NestJS, REST APIs</tspan></text>
+<text class="mr" x="24" y="622" textLength="501.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.95s"><tspan class="key">Stack</tspan><tspan class="dim">.</tspan><tspan class="key">Data</tspan><tspan class="dim">: </tspan><tspan class="val">PostgreSQL, MongoDB, TimescaleDB</tspan></text>
+<text class="mr" x="24" y="649" textLength="421.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.01s"><tspan class="key">Stack</tspan><tspan class="dim">.</tspan><tspan class="key">IoT/ML</tspan><tspan class="dim">: </tspan><tspan class="val">ESP32, MQTT, TensorFlow</tspan></text>
+<text class="mr" x="24" y="676" textLength="444.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.07s"><tspan class="key">Stack</tspan><tspan class="dim">.</tspan><tspan class="key">Infra</tspan><tspan class="dim">: </tspan><tspan class="val">Docker, Linux, VPS, Vercel</tspan></text>
+<text class="mr" x="24" y="720" textLength="114.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.13s"><tspan class="accent">- Projects</tspan></text>
+<text class="mr" x="24" y="747" textLength="376.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.19s"><tspan class="key">E-Commerce</tspan><tspan class="dim">: </tspan><tspan class="val">MERN stack storefront</tspan></text>
+<text class="mr" x="24" y="774" textLength="490.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.25s"><tspan class="key">ag-qrew-qwen</tspan><tspan class="dim">: </tspan><tspan class="val">Agentic QA system — hackathon</tspan></text>
+<text class="mr" x="24" y="801" textLength="456.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.31s"><tspan class="key">RAG</tspan><tspan class="dim">.</tspan><tspan class="key">Chatbot</tspan><tspan class="dim">: </tspan><tspan class="val">Retrieval-augmented LLM bot</tspan></text>
+<text class="mr" x="24" y="845" textLength="114.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.37s"><tspan class="accent">- Activity</tspan></text>
+<text class="mr" x="24" y="872" textLength="342.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.43s"><tspan class="key">Focus</tspan><tspan class="dim">: </tspan><tspan class="val">Markdown and TypeScript</tspan></text>
+<text class="mr" x="24" y="899" textLength="285.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.49s"><tspan class="key">Peak</tspan><tspan class="dim">: </tspan><tspan class="val">Saturday afternoons</tspan></text>
+<text class="mr" x="24" y="926" textLength="353.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.55s"><tspan class="key">Rhythm</tspan><tspan class="dim">: </tspan><tspan class="val">All week, daytime hours</tspan></text>
+<text class="mr" x="24" y="953" textLength="193.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.61s"><tspan class="key">Quietest</tspan><tspan class="dim">: </tspan><tspan class="val">Fridays</tspan></text>
+<text class="mr" x="24" y="980" textLength="330.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.67s"><tspan class="key">Pace</tspan><tspan class="dim">: </tspan><tspan class="val">About three hours a day</tspan></text>
+<text class="mr" x="24" y="1007" textLength="273.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.73s"><tspan class="key">Mode</tspan><tspan class="dim">: </tspan><tspan class="val">AI assisted Coding</tspan></text>
+</g>
+</svg>
