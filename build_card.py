@@ -153,7 +153,7 @@ def waka_rows(path, rm=None):
         return []
 
     rm = rm or {}
-    rows = [('@Activity', None)]
+    rows = [('@Last 7 Days', None)]
 
     if langs:
         rows.append(('Focus', join_and([l['name'] for l in langs])))
