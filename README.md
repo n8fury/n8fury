@@ -77,15 +77,13 @@
   </p>
 </details>
 
-<br/>
-
 <!--  The banner card summarises this block. It stays here, collapsed, because
       build_card.py reads the commit tables between the markers below to derive
       the all-time Peak / Rhythm / Quietest rows — delete it and those rows
       silently disappear from the card. The <details> wrapper sits OUTSIDE the
       markers, so waka-readme-stats keeps rewriting the inside untouched.  -->
 <details>
-  <summary>📊 <strong>Weekly Development Breakdown</strong></summary>
+  <summary>📈 <strong>Detailed Stats</strong></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2012%20mins-blue?style=flat)
