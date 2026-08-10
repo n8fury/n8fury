@@ -132,46 +132,49 @@ def join_and(names):
     return f"{', '.join(names[:-1])} and {names[-1]}"
 
 
+ACTIVITY_FIELDS = ['Focus', 'Peak', 'Rhythm', 'Quietest', 'Pace', 'Mode']
+
+
 def waka_rows(path, rm=None):
-    """Turn a WakaTime stats payload into card rows. Returns [] on any problem."""
+    """Turn a WakaTime stats payload into card rows. Returns [] only when no
+    WakaTime file was given at all.
+
+    A quiet week is data, not a failure: every field in ACTIVITY_FIELDS is
+    always emitted, with an empty value where the payload has nothing to say.
+    The section keeps its shape whether the week was busy, idle, or the API key
+    is dead -- rows never appear and disappear between builds."""
     if not path:
         return []
+
+    d = {}
     try:
         raw = json.loads(pathlib.Path(path).read_text(encoding='utf-8'))
+        d = raw.get('data', raw)
     except Exception as e:
-        print(f'  waka: unreadable ({e}) -- section skipped')
-        return []
+        print(f'  waka: unreadable ({e}) -- values left blank')
 
-    d = raw.get('data', raw)
     langs = [l for l in d.get('languages', [])
              if l.get('percent', 0) > 0 and l.get('name') not in LANG_IGNORE][:TOP_LANGS]
     total = d.get('human_readable_total') or ''
 
-    # No hours and no languages means WakaTime has nothing to report.
-    if not langs and not total.strip():
-        print('  waka: payload empty -- section skipped')
-        return []
-
     rm = rm or {}
-    rows = [('@Last 7 Days', None)]
+    vals = {}
 
     if langs:
-        rows.append(('Focus', join_and([l['name'] for l in langs])))
+        vals['Focus'] = join_and([l['name'] for l in langs])
 
     if rm:
         wknd = sum(v[1] for k, v in rm['days'].items() if k in WEEKEND)
         when = 'Weekends' if wknd >= 35 else (
             'Weekdays' if wknd <= 22 else 'All week')
-        rows.append(('Rhythm', f"{when}, {TIME_WORD[rm['time']][0]}"))
+        vals['Rhythm'] = f"{when}, {TIME_WORD[rm['time']][0]}"
+        vals['Peak'] = f"{rm['day']} {TIME_WORD[rm['time']][1]}"
+        quiet = min(rm['days'], key=lambda k: rm['days'][k][0])
+        vals['Quietest'] = f'{quiet}s'
 
     pace = pace_words(d.get('human_readable_daily_average'))
     if pace:
-        rows.append(('Pace', pace))
-
-    if rm:
-        rows.append(('Peak', f"{rm['day']} {TIME_WORD[rm['time']][1]}"))
-        quiet = min(rm['days'], key=lambda k: rm['days'][k][0])
-        rows.append(('Quietest', f'{quiet}s'))
+        vals['Pace'] = pace
 
     # WakaTime "categories" -- how the time was spent, not what it was spent on.
     # Deliberately NOT project names: those are local folder names and leak
@@ -179,14 +182,14 @@ def waka_rows(path, rm=None):
     cats = [CAT_LABEL.get(c['name'], c['name'])
             for c in d.get('categories', []) if c.get('percent', 0) >= CAT_MIN]
     if cats:
-        rows.append(('Mode', join_and(cats[:2])))
+        vals['Mode'] = join_and(cats[:2])
 
-    order = ['Focus', 'Peak', 'Rhythm', 'Quietest', 'Pace', 'Mode']
-    body = sorted((r for r in rows[1:] if r[0]
-                  in order), key=lambda r: order.index(r[0]))
-    rows = rows[:1] + body
+    rows = [('@Last 7 Days', None)] + [(k, vals.get(k, ''))
+                                       for k in ACTIVITY_FIELDS]
 
-    print(f'  waka: {len(langs)} languages, total {total!r}')
+    blank = [k for k in ACTIVITY_FIELDS if not vals.get(k)]
+    print(f'  waka: {len(langs)} languages, total {total!r}'
+          + (f', blank {blank}' if blank else ''))
     return rows
 
 
@@ -286,7 +289,8 @@ def desktop(pal, art_rows, rows, act):
                     segs.append(('key', part))
                 pad = max(1, cols - 2 - cells(key) - 2 - cells(val) - 1)
                 segs.append(('dim', ': ' + '.' * pad + ' '))
-                segs.append(('val', val))
+                if val:
+                    segs.append(('val', val))
                 emit(x, y, segs, adv('. ' + key + ': ' +
                      '.' * pad + ' ' + val, FS), cols)
             y += STEP
@@ -303,7 +307,8 @@ def desktop(pal, art_rows, rows, act):
             segs.append(('key', part))
         pad = max(1, cols - 2 - cells(key) - 2 - cells(val) - 1)
         segs.append(('dim', ': ' + '.' * pad + ' '))
-        segs.append(('val', val))
+        if val:
+            segs.append(('val', val))
         return segs, '. ' + key + ': ' + '.' * pad + ' ' + val
 
     def render_pairs(items, x, y0, colw, gap):
@@ -373,7 +378,9 @@ def mobile(pal, art_rows, rows):
             if j:
                 segs.append(('dim', '.'))
             segs.append(('key', part))
-        segs += [('dim', ': '), ('val', val)]
+        segs.append(('dim', ': '))
+        if val:
+            segs.append(('val', val))
         row(segs, 27)
     return shell(pal, W, int(y + PAD + 8), art, '\n'.join(lines), '', FS, FS + 1, True)
 
