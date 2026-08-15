@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="957" viewBox="0 0 600 957" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1038" viewBox="0 0 600 1038" role="img">
 <title>MD. Mamdud Hasan (n8fury) — Software Engineer at Zeroozen Energy. Backend, IoT and data systems for light electric vehicles.</title>
 <desc>Terminal-style profile card: ASCII flame artwork with a neofetch-style listing of role, location, languages, stack, projects and coding activity.</desc>
 <defs>
@@ -48,8 +48,8 @@
   </style>
 </defs>
 
-<rect width="600" height="957" fill="url(#bg)"/>
-<rect width="600" height="957" fill="url(#tex)"/>
+<rect width="600" height="1038" fill="url(#bg)"/>
+<rect width="600" height="1038" fill="url(#tex)"/>
 
 <g>
 <g class="art" transform="translate(156.576,30) scale(0.6)">
@@ -141,8 +141,11 @@
 <text class="mr" x="24" y="774" textLength="490.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.25s"><tspan class="key">ag-qrew-qwen</tspan><tspan class="dim">: </tspan><tspan class="val">Agentic QA system — hackathon</tspan></text>
 <text class="mr" x="24" y="801" textLength="456.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.31s"><tspan class="key">RAG</tspan><tspan class="dim">.</tspan><tspan class="key">Chatbot</tspan><tspan class="dim">: </tspan><tspan class="val">Retrieval-augmented LLM bot</tspan></text>
 <text class="mr" x="24" y="845" textLength="148.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.37s"><tspan class="accent">- Last 7 Days</tspan></text>
-<text class="mr" x="24" y="872" textLength="342.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.43s"><tspan class="key">Focus</tspan><tspan class="dim">: </tspan><tspan class="val">Markdown and TypeScript</tspan></text>
-<text class="mr" x="24" y="899" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.49s"><tspan class="key">Pace</tspan><tspan class="dim">: </tspan><tspan class="val">About four hours a day</tspan></text>
-<text class="mr" x="24" y="926" textLength="273.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.55s"><tspan class="key">Mode</tspan><tspan class="dim">: </tspan><tspan class="val">AI assisted Coding</tspan></text>
+<text class="mr" x="24" y="872" textLength="364.8" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.43s"><tspan class="key">Focus</tspan><tspan class="dim">: </tspan><tspan class="val">TypeScript and JavaScript</tspan></text>
+<text class="mr" x="24" y="899" textLength="68.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.49s"><tspan class="key">Peak</tspan><tspan class="dim">: </tspan></text>
+<text class="mr" x="24" y="926" textLength="91.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.55s"><tspan class="key">Rhythm</tspan><tspan class="dim">: </tspan></text>
+<text class="mr" x="24" y="953" textLength="114.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.61s"><tspan class="key">Quietest</tspan><tspan class="dim">: </tspan></text>
+<text class="mr" x="24" y="980" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.67s"><tspan class="key">Pace</tspan><tspan class="dim">: </tspan><tspan class="val">About four hours a day</tspan></text>
+<text class="mr" x="24" y="1007" textLength="273.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.73s"><tspan class="key">Mode</tspan><tspan class="dim">: </tspan><tspan class="val">AI assisted Coding</tspan></text>
 </g>
 </svg>

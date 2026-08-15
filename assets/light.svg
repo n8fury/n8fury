@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="674" viewBox="0 0 1180 674" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="702" viewBox="0 0 1180 702" role="img">
 <title>MD. Mamdud Hasan (n8fury) — Software Engineer at Zeroozen Energy. Backend, IoT and data systems for light electric vehicles.</title>
 <desc>Terminal-style profile card: ASCII flame artwork with a neofetch-style listing of role, location, languages, stack, projects and coding activity.</desc>
 <defs>
@@ -13,8 +13,8 @@
   <pattern id="tex" width="4" height="4" patternUnits="userSpaceOnUse">
     <rect width="4" height="1" fill="#78716C" opacity="0.05"/>
   </pattern>
-  <mask id="reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="674">
-    <rect id="revealbar" x="0" y="0" width="1180" height="674" fill="#fff"/>
+  <mask id="reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="702">
+    <rect id="revealbar" x="0" y="0" width="1180" height="702" fill="#fff"/>
   </mask>
 <clipPath id="lc0"><rect class="lc" x="500" y="31" width="648" height="28" style="animation-delay:0.500s; transform-origin:500px 0"/></clipPath>
 <clipPath id="lc1"><rect class="lc" x="500" y="59" width="648" height="28" style="animation-delay:0.585s; transform-origin:500px 0"/></clipPath>
@@ -38,6 +38,7 @@
 <clipPath id="lc19"><rect class="lc" x="30" y="571" width="1116" height="28" style="animation-delay:2.115s; transform-origin:30px 0"/></clipPath>
 <clipPath id="lc20"><rect class="lc" x="30" y="599" width="1116" height="28" style="animation-delay:2.200s; transform-origin:30px 0"/></clipPath>
 <clipPath id="lc21"><rect class="lc" x="30" y="627" width="1116" height="28" style="animation-delay:2.285s; transform-origin:30px 0"/></clipPath>
+<clipPath id="lc22"><rect class="lc" x="30" y="655" width="1116" height="28" style="animation-delay:2.370s; transform-origin:30px 0"/></clipPath>
   <style>
     .ascii  { font-family: 'Courier New', Consolas, Menlo, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 8.3px; fill: url(#ag); letter-spacing: -0.2px; }
     text    { font-family: 'Courier New', Consolas, Menlo, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 15px; white-space: pre; }
@@ -73,8 +74,8 @@
   </style>
 </defs>
 
-<rect width="1180" height="674" fill="url(#bg)"/>
-<rect width="1180" height="674" fill="url(#tex)"/>
+<rect width="1180" height="702" fill="url(#bg)"/>
+<rect width="1180" height="702" fill="url(#tex)"/>
 
 <g mask="url(#reveal)">
 <g class="art" transform="translate(30,56) scale(1)">
@@ -168,7 +169,8 @@
 <g clip-path="url(#lc17)"><text x="500" y="524" textLength="648.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">ag-qrew-qwen</tspan><tspan class="dim">: .......................... </tspan><tspan class="val">Agentic QA system — hackathon</tspan></text></g>
 <g clip-path="url(#lc18)"><text x="500" y="552" textLength="648.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">RAG</tspan><tspan class="dim">.</tspan><tspan class="key">Chatbot</tspan><tspan class="dim">: ............................. </tspan><tspan class="val">Retrieval-augmented LLM bot</tspan></text></g>
 <g clip-path="url(#lc19)"><text x="30" y="588" textLength="1116.0" lengthAdjust="spacingAndGlyphs"><tspan class="accent">- Last 7 Days</tspan><tspan class="dim"> ——————————————————————————————————————————————————————————————————————————————————————————————————————————————</tspan></text></g>
-<g clip-path="url(#lc20)"><text x="30" y="616" textLength="1116.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Focus</tspan><tspan class="dim">: ........................... </tspan><tspan class="val">Markdown and TypeScript</tspan><tspan class="dim">    </tspan><tspan class="dim">. </tspan><tspan class="key">Pace</tspan><tspan class="dim">: ............................. </tspan><tspan class="val">About four hours a day</tspan></text></g>
-<g clip-path="url(#lc21)"><text x="30" y="644" textLength="1116.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Mode</tspan><tspan class="dim">: ................................. </tspan><tspan class="val">AI assisted Coding</tspan><tspan class="dim">    </tspan><tspan class="dim">                                                            </tspan></text></g>
+<g clip-path="url(#lc20)"><text x="30" y="616" textLength="1116.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Focus</tspan><tspan class="dim">: ......................... </tspan><tspan class="val">TypeScript and JavaScript</tspan><tspan class="dim">    </tspan><tspan class="dim">. </tspan><tspan class="key">Peak</tspan><tspan class="dim">: ................................................... </tspan></text></g>
+<g clip-path="url(#lc21)"><text x="30" y="644" textLength="1116.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Rhythm</tspan><tspan class="dim">: ................................................. </tspan><tspan class="dim">    </tspan><tspan class="dim">. </tspan><tspan class="key">Quietest</tspan><tspan class="dim">: ............................................... </tspan></text></g>
+<g clip-path="url(#lc22)"><text x="30" y="672" textLength="1116.0" lengthAdjust="spacingAndGlyphs"><tspan class="dim">. </tspan><tspan class="key">Pace</tspan><tspan class="dim">: ............................. </tspan><tspan class="val">About four hours a day</tspan><tspan class="dim">    </tspan><tspan class="dim">. </tspan><tspan class="key">Mode</tspan><tspan class="dim">: ................................. </tspan><tspan class="val">AI assisted Coding</tspan></text></g>
 </g>
 </svg>
