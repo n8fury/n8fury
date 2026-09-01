@@ -145,7 +145,7 @@
 <text class="mr" x="24" y="899" textLength="68.4" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.49s"><tspan class="key">Peak</tspan><tspan class="dim">: </tspan></text>
 <text class="mr" x="24" y="926" textLength="91.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.55s"><tspan class="key">Rhythm</tspan><tspan class="dim">: </tspan></text>
 <text class="mr" x="24" y="953" textLength="114.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.61s"><tspan class="key">Quietest</tspan><tspan class="dim">: </tspan></text>
-<text class="mr" x="24" y="980" textLength="319.2" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.67s"><tspan class="key">Pace</tspan><tspan class="dim">: </tspan><tspan class="val">About four hours a day</tspan></text>
+<text class="mr" x="24" y="980" textLength="285.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.67s"><tspan class="key">Pace</tspan><tspan class="dim">: </tspan><tspan class="val">About an hour a day</tspan></text>
 <text class="mr" x="24" y="1007" textLength="273.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:1.73s"><tspan class="key">Mode</tspan><tspan class="dim">: </tspan><tspan class="val">AI assisted Coding</tspan></text>
 </g>
 </svg>
