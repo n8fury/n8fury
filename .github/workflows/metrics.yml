@@ -22,7 +22,7 @@ jobs:
     steps:
       # Pinned: @latest is a moving tag and gives you no signal when upstream
       # changes break the run.
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
 
